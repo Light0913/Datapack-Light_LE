@@ -7,14 +7,14 @@
 ### Minecraft
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-|:-|:-:|
 |(目标)|来软的|获得金锭|`minecraft:story/smelt_iron`|`story/smelt_gold`||
 |{挑战}|你是怎么下去的？|在主世界抵达基岩层下层（y < -66）|`minecraft:story/enter_the_nether`|`story/under_bedrock`|10000经验值+随机物品|
 
 ### 冒险
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-|:-|:-:|
 |[进度]|沙漠中的绿洲|找到沙漠村庄|`light:adventure/find_village`|`light:adventure/an_oasis_in_the_desert`||
 |[进度]|破碎的...唱片？|获得11号唱片|`minecraft:adventure/play_jukebox_in_meadows`|`light:adventure/broken_records`||
 |[进度]|死亡引路人|获得追溯指南针|`minecraft:adventure/root`|`light:adventure/death_leads_the_way`|100经验值|
@@ -45,7 +45,7 @@
 ### 下界
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-|:-|:-:|
 |(目标)|超平坦|抵达地狱基岩层上层|`minecraft:nether/root`|`light:nether/flat`|20经验值|
 |[进度]|轻飘飘的|喝下缓降药水|`minecraft:nether/brew_potion`|`light:nether/fluttery`|25经验值|
 |{挑战}|这就是肝帝的力量|获得至少一组下界合金块|`minecraft:nether/obtain_ancient_debris`|`light:nether/liver_emperor`|500经验值+随机物品|
@@ -53,7 +53,7 @@
 ### 末地
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-|:-|:-:|
 |[进度]|拿“首”好戏|获得龙首|`minecraft:end/find_end_city`|`light:end/dragon_head`||
 |(目标)|飞向太空，宇宙无限|抵达卡门线（y > 100000）|`minecraft:end/elytra`|`light:end/fly_into_space`|500经验值|
 |{挑战}-隐藏成就|人型太空电梯|抵达 y > 90000000|`light:end/fly_into_space`|`light:end/humanoid_space_elevators`|10000经验值+随机物品|
@@ -64,19 +64,19 @@
 ### 农牧业
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-|:-|:-:|
 |[进度]|分解者|吃下腐肉|`minecraft:husbandry/plant_seed`|`light:husbandty/decomposer`|10经验值|
 |[进度]|一天一苹果，医生远离我|吃下苹果|`light:husbandry/decomposer`|`light:husbandry/eat_apple`|25经验值|
 |(目标)|金色传说|吃下金苹果|`light:husbandry/eat_apple`|`light:husbandry/golden_legends`|50经验值|
 |(目标)|握草|获得草方块|`minecraft:husbandry/root`|`light:husbandry/grass_block`|15经验值|
 |[进度]|金坷垃|获得骨粉|`minecraft:husbandry/plant_seed`|`light:husbandry/jin_kera`||
 |{挑战}|君临天下|吃下附魔金苹果|`light:husbandry/golden_legends`|`light:husbandry/reign_supreme`|100经验值+随机物品|
-|{挑战}-隐藏成就|真 · 终极奉献|`minecraft:husbandry/obtain_netherite_hoe`|`light:husbandry/wearout_netherite_hoe`|10000经验值+随机物品|
+|{挑战}-隐藏成就|真 · 终极奉献|用坏下界合金锄|`minecraft:husbandry/obtain_netherite_hoe`|`light:husbandry/wearout_netherite_hoe`|10000经验值+随机物品|
 
 ### 红石（自制根进度）
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-|:-|:-:|
 |[进度]|比上不足，比下有余|获得红石比较器|`light:redstone/repeater`|`light:resdtone/comparator`||
 |{挑战}|按钮爱好者|获得所有种类的按钮|`light:redstone/get_button`|`light:resdtone/get_all_buttons`|50经验值+随机物品|
 |{挑战}|压力板爱好者|获得所有种类的压力板|`light:redstone/get_pressure_plate`|`light:resdtone/get_all_pressure_plates`|50经验值+随机物品|
