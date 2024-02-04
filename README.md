@@ -4,6 +4,8 @@
 
 支持版本：1.20.X
 
+**使用说明：为了给您更好的体验，请将数据包放在`.minecraft\versions\版本名\saves\存档名\datapacks`目录下**
+
 ## 进度内容
 
 ### Minecraft
