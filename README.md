@@ -31,7 +31,7 @@
 |[进度]-隐藏成就|你干嘛~哎呦|杀死一只鸡|`minecraft:adventure/kill_a_mob`|`light:adventure/kill_chicken`|5经验值+随机物品|
 |[进度]|真 · 村庄英雄|带着不祥之兆进入村庄|`minecraft:adventure/voluntary_exile`|`light:adventure/really_hero_of_the_village`||
 |(目标)|那是病毒库吗？|透过望远镜观察蝙蝠|`light:adventure/spyglass_at_mooshroom`|`light:adventure/spyglass_at_bat`||
-|(目标)|Creeper?|透过望远镜观察苦力怕|`light:adventure/spyglass_at_trader`|light:adventure/spyglass_at_creeper||
+|(目标)|Creeper?|透过望远镜观察苦力怕|`light:adventure/spyglass_at_trader`|`light:adventure/spyglass_at_creeper`||
 |[进度]|那是飞机导航塔吗？|透过望远镜观察末影水晶|`minecraft:adventure/spyglass_at_dragon`|`light:adventure/spyglass_at_crystal`||
 |{挑战}|那是要见鬼吗？|透过望远镜观察恶魂的火球|`minecraft:adventure/spyglass_at_ghast`|`light:adventure/spyglass_at_fireball`|100经验值+随机物品|
 |[进度]|那是红牛吗？|透过望远镜观察哞菇|`light:adventure/spyglass`|`light:adventure/spyglass_at_mooshroom`||
@@ -65,10 +65,36 @@
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|||||||
+|[进度]|分解者|吃下腐肉|`minecraft:husbandry/plant_seed`|`light:husbandty/decomposer`|10经验值|
+|[进度]|一天一苹果，医生远离我|吃下苹果|`light:husbandry/decomposer`|`light:husbandry/eat_apple`|25经验值|
+|(目标)|金色传说|吃下金苹果|`light:husbandry/eat_apple`|`light:husbandry/golden_legends`|50经验值|
+|(目标)|握草|获得草方块|`minecraft:husbandry/root`|`light:husbandry/grass_block`|15经验值|
+|[进度]|金坷垃|获得骨粉|`minecraft:husbandry/plant_seed`|`light:husbandry/jin_kera`||
+|{挑战}|君临天下|吃下附魔金苹果|`light:husbandry/golden_legends`|`light:husbandry/reign_supreme`|100经验值+随机物品|
+|{挑战}-隐藏成就|真 · 终极奉献|`minecraft:husbandry/obtain_netherite_hoe`|`light:husbandry/wearout_netherite_hoe`|10000经验值+随机物品|
 
 ### 红石（自制根进度）
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|||||||
+|[进度]|比上不足，比下有余|获得红石比较器|`light:redstone/repeater`|`light:resdtone/comparator`||
+|{挑战}|按钮爱好者|获得所有种类的按钮|`light:redstone/get_button`|`light:resdtone/get_all_buttons`|50经验值+随机物品|
+|{挑战}|压力板爱好者|获得所有种类的压力板|`light:redstone/get_pressure_plate`|`light:resdtone/get_all_pressure_plates`|50经验值+随机物品|
+|[进度]|咔哒 II|获得任意一种按钮|`light:redstone/get_all_pressure_plates`|`light:resdtone/get_button`||
+|[进度]|咔哒 I|获得任意一种压力板|`light:redstone/root`|`light:resdtone/get_pressure_plate`||
+|[进度]|火药|获得火药|`light:redstone/root`|`light:resdtone/gunpowder`||
+|[进度]|唱片机|获得唱片机|`light:redstone/note_block`|`light:resdtone/jukebox`||
+|[进度]|引雷针|获得避雷针|`light:redstone/root`|`light:resdtone/lightning_rod`||
+|[进度]|让音乐充满真个MC|获得音符盒|`light:redstone/root`|light:resdtone/note_block||
+|[进度]|这抑郁的眼神|获得侦测器|`light:redstone/quartz`|`light:resdtone/observer`||
+|[进度]|活塞|获得活塞|`light:redstone/root`|`light:resdtone/piston`||
+|[进度]|下界石英|获得下界石英|`light:redstone/root`|light:resdtone/quartz||
+|[进度]|能量方块|获得红石块|`light:redstone/redstone_torch`|`light:resdtone/redstone_block`||
+|[进度]|不太亮的火把|获得红石火把|`light:redstone/root`|`light:redstone/redstone_torch`||
+|[进度]|充能，延长|获得红石中继器|`light:redstone/quartz`|`light:redstone/repeater`||
+|[进度]-跟进度|红石|获得红石||`light:redstone/root`||
+|[进度]|鼻涕|获得粘液球|`light:redstone/piston`|`light:redstone/slime_ball`||
+|[进度]|压缩鼻涕|获得粘液块|`light:redstone/slime_ball`|`light:redstone/slime_block`||
+|[进度]|粘性活塞|获得粘性活塞|`light:redstone/slime_ball`|`light:redstone/sticky_piston`||
+|[进度]|炮爷出击|获得TNT|`light:redstone/gunpowder`|`light:redstone/tnt`||
+|[进度]|奇妙的箱子|获得陷阱箱|`light:redstone/root`|`light:redstone/trapped_chest`||
