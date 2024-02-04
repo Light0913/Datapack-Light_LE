@@ -46,13 +46,20 @@
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|||||||
+|(目标)|超平坦|抵达地狱基岩层上层|`minecraft:nether/root`|`light:nether/flat`|20经验值|
+|[进度]|轻飘飘的|喝下缓降药水|`minecraft:nether/brew_potion`|`light:nether/fluttery`|25经验值|
+|{挑战}|这就是肝帝的力量|获得至少一组下界合金块|`minecraft:nether/obtain_ancient_debris`|`light:nether/liver_emperor`|500经验值+随机物品|
 
 ### 末地
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|||||||
+|[进度]|拿“首”好戏|获得龙首|`minecraft:end/find_end_city`|`light:end/dragon_head`||
+|(目标)|飞向太空，宇宙无限|抵达卡门线（y > 100000）|`minecraft:end/elytra`|`light:end/fly_into_space`|500经验值|
+|{挑战}-隐藏成就|人型太空电梯|抵达 y > 90000000|`light:end/fly_into_space`|`light:end/humanoid_space_elevators`|10000经验值+随机物品|
+|[进度]|氢气球|获得漂浮效果|`minecraft:end/find_end_city`|`light:end/hydrogen_balloons`||
+|{挑战}-隐藏成就|哪来的这么多龙蛋|获得两枚龙蛋以上|`minecraft:end/dragon_egg`|`light:end/more_dragon_egg`|30经验值+随机物品|
+|{挑战}-隐藏成就|哦吼|飞坏鞘翅|`light:end/humanoid_space_elevators`|`light:end/oh_no`|100经验值+随机物品|
 
 ### 农牧业
 
