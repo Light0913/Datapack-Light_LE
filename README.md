@@ -92,7 +92,7 @@
 |[进度]|能量方块|获得红石块|`light:redstone/redstone_torch`|`light:resdtone/redstone_block`||
 |[进度]|不太亮的火把|获得红石火把|`light:redstone/root`|`light:redstone/redstone_torch`||
 |[进度]|充能，延长|获得红石中继器|`light:redstone/quartz`|`light:redstone/repeater`||
-|[进度]-跟进度|红石|获得红石||`light:redstone/root`||
+|[进度]-根进度|红石|获得红石||`light:redstone/root`||
 |[进度]|鼻涕|获得粘液球|`light:redstone/piston`|`light:redstone/slime_ball`||
 |[进度]|压缩鼻涕|获得粘液块|`light:redstone/slime_ball`|`light:redstone/slime_block`||
 |[进度]|粘性活塞|获得粘性活塞|`light:redstone/slime_ball`|`light:redstone/sticky_piston`||
