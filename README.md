@@ -45,6 +45,7 @@
 |[进度]|那时栓绳吗？|透过望远镜观察流浪闪商人|`minecraft:adventure/spyglass_at_parrot`|`light:adventure/spyglass_at_trader`||
 |[进度]|那是什么？|使用望远镜|`minecraft:adventure/root`|`light:adventure/spyglass`||
 |{挑战}|恶臭的洗礼|抵达 x=11,y=45,z=14 的地方|`minecraft:adventure/adventuring_time`|`light:adventure/stinking`|114514经验值+随机物品|
+|{挑战}|不死族|获得满背包的不死图腾|`minecraft:adventure/totem_of_undying`|`light:adventure/immortal`|100经验值+随机物品|
 
 ### 下界
 
