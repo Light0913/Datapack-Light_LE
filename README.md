@@ -90,10 +90,10 @@
 |[进度]|火药|获得火药|`light:redstone/root`|`light:resdtone/gunpowder`||
 |[进度]|唱片机|获得唱片机|`light:redstone/note_block`|`light:resdtone/jukebox`||
 |[进度]|引雷针|获得避雷针|`light:redstone/root`|`light:resdtone/lightning_rod`||
-|[进度]|让音乐充满真个MC|获得音符盒|`light:redstone/root`|light:resdtone/note_block||
+|[进度]|让音乐充满整个MC|获得音符盒|`light:redstone/root`|`light:resdtone/note_block`||
 |[进度]|这抑郁的眼神|获得侦测器|`light:redstone/quartz`|`light:resdtone/observer`||
 |[进度]|活塞|获得活塞|`light:redstone/root`|`light:resdtone/piston`||
-|[进度]|下界石英|获得下界石英|`light:redstone/root`|light:resdtone/quartz||
+|[进度]|下界石英|获得下界石英|`light:redstone/root`|`light:resdtone/quartz`||
 |[进度]|能量方块|获得红石块|`light:redstone/redstone_torch`|`light:resdtone/redstone_block`||
 |[进度]|不太亮的火把|获得红石火把|`light:redstone/root`|`light:redstone/redstone_torch`||
 |[进度]|充能，延长|获得红石中继器|`light:redstone/quartz`|`light:redstone/repeater`||
@@ -103,3 +103,9 @@
 |[进度]|粘性活塞|获得粘性活塞|`light:redstone/slime_ball`|`light:redstone/sticky_piston`||
 |[进度]|炮爷出击|获得TNT|`light:redstone/gunpowder`|`light:redstone/tnt`||
 |[进度]|奇妙的箱子|获得陷阱箱|`light:redstone/root`|`light:redstone/trapped_chest`||
+
+### 挑战（自制根进度）
+
+|进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
+|:-:|:-:|:-:|:-|:-|:-:|
+|{挑战}|挑战|解放末地||`light:challenges/root`||
