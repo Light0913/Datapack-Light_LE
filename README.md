@@ -6,14 +6,13 @@
 
 **使用说明：为了给您更好的体验，请将数据包放在`.minecraft\versions\版本名\saves\存档名\datapacks`目录下**
 
-## 进度内容 [目前有 66 个进度]
+## 进度内容 [目前有 68 个进度]
 
 ### Minecraft
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
 |:-:|:-:|:-:|:-|:-|:-:|
-|(目标)|来软的|获得金锭|`minecraft:story/smelt_iron`|`story/smelt_gold`||
-|{挑战}|你是怎么下去的？|在主世界抵达基岩层下层（y < -66）|`minecraft:story/enter_the_nether`|`story/under_bedrock`|10000经验值+随机物品|
+|(目标)|来软的|获得金锭|`minecraft:story/smelt_iron`|`light:story/smelt_gold`||
 
 ### 冒险
 
@@ -53,7 +52,6 @@
 |:-:|:-:|:-:|:-|:-|:-:|
 |(目标)|超平坦|抵达地狱基岩层上层|`minecraft:nether/root`|`light:nether/flat`|20经验值|
 |[进度]|轻飘飘的|喝下缓降药水|`minecraft:nether/brew_potion`|`light:nether/fluttery`|25经验值|
-|{挑战}|这就是肝帝的力量|获得至少一组下界合金块|`minecraft:nether/obtain_ancient_debris`|`light:nether/liver_emperor`|500经验值+随机物品|
 
 ### 末地
 
@@ -61,10 +59,8 @@
 |:-:|:-:|:-:|:-|:-|:-:|
 |[进度]|拿“首”好戏|获得龙首|`minecraft:end/find_end_city`|`light:end/dragon_head`||
 |(目标)|飞向太空，宇宙无限|抵达卡门线（y > 100000）|`minecraft:end/elytra`|`light:end/fly_into_space`|500经验值|
-|{挑战}-隐藏成就|人型太空电梯|抵达 y > 90000000|`light:end/fly_into_space`|`light:end/humanoid_space_elevators`|10000经验值+随机物品|
 |[进度]|氢气球|获得漂浮效果|`minecraft:end/find_end_city`|`light:end/hydrogen_balloons`||
 |{挑战}-隐藏成就|哪来的这么多龙蛋|获得两枚龙蛋以上|`minecraft:end/dragon_egg`|`light:end/more_dragon_egg`|30经验值+随机物品|
-|{挑战}-隐藏成就|哦吼|飞坏鞘翅|`light:end/humanoid_space_elevators`|`light:end/oh_no`|100经验值+随机物品|
 
 ### 农牧业
 
@@ -109,3 +105,8 @@
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
 |:-:|:-:|:-:|:-|:-|:-:|
 |{挑战}|挑战|解放末地||`light:challenges/root`||
+|{挑战}|不死族|获得满背包的不死图腾|`light:challenges/root`|`light:challenges/immortal`|100经验值+随机物品|
+|{挑战}|这就是肝帝的力量|获得至少一组下界合金块|`light:challenges/immortal`|`light:challenges/liver_emperor`|500经验值+随机物品|
+|{挑战}|你是怎么下去的？|在主世界抵达基岩层下层（y < -66）|`light:challenges/root`|`light:challenges/under_bedrock`|10000经验值+随机物品|
+|{挑战}-隐藏成就|人型太空电梯|抵达 y > 90000000|`light:challenges/under_badrock`|`light:challenges/humanoid_space_elevators`|10000经验值+随机物品|
+|{挑战}-隐藏成就|哦吼|飞坏鞘翅|`light:challenges/humanoid_space_elevators`|`light:challenges/oh_no`|1000经验值+随机物品|
