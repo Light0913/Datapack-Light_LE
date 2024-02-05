@@ -2,6 +2,8 @@
 
 这是一个综合性我的世界数据包，拥有很多功能。主要功能是更多进度
 
+由于部分成就跟中国的网络梗有关，所以外国网友在完成部分进度是会很困难
+
 支持版本：1.20.X
 
 **使用说明：为了给您更好的体验，请将数据包放在`.minecraft\versions\版本名\saves\存档名\datapacks`目录下**
@@ -43,7 +45,6 @@
 |(目标)|你不要过来啊啊啊！|透过望远镜观察潜影贝导弹|`light:adventure/spyglass_at_crystal`|`light:adventure/spyglass_at_shulker_bullet`||
 |[进度]|那时栓绳吗？|透过望远镜观察流浪闪商人|`minecraft:adventure/spyglass_at_parrot`|`light:adventure/spyglass_at_trader`||
 |[进度]|那是什么？|使用望远镜|`minecraft:adventure/root`|`light:adventure/spyglass`||
-|{挑战}|恶臭的洗礼|抵达 x=11,y=45,z=14 的地方|`minecraft:adventure/adventuring_time`|`light:adventure/stinking`|114514经验值+随机物品|
 |{挑战}|不死族|获得满背包的不死图腾|`minecraft:adventure/totem_of_undying`|`light:adventure/immortal`|100经验值+随机物品|
 
 ### 下界
@@ -110,3 +111,5 @@
 |{挑战}|你是怎么下去的？|在主世界抵达基岩层下层（y < -66）|`light:challenges/root`|`light:challenges/under_bedrock`|10000经验值+随机物品|
 |{挑战}-隐藏成就|人型太空电梯|抵达 y > 90000000|`light:challenges/under_badrock`|`light:challenges/humanoid_space_elevators`|10000经验值+随机物品|
 |{挑战}-隐藏成就|哦吼|飞坏鞘翅|`light:challenges/humanoid_space_elevators`|`light:challenges/oh_no`|1000经验值+随机物品|
+|{挑战}|恶臭的洗礼 I|抵达 x=11,y=45,z=14 的地方|`light:challenges/root`|`light:adventure/stinking`|114514经验值+随机物品|
+|{挑战}|恶臭的洗礼 II|抵达 y=114514 的高度|`light:challenges/stinking`|`light:adventure/stinking_height`|114514经验值+随机物品|
