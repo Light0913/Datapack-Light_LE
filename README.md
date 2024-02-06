@@ -109,7 +109,7 @@
 |{挑战}|不死族|获得满背包的不死图腾|`light:challenges/root`|`light:challenges/immortal`|100经验值+随机物品|
 |{挑战}|这就是肝帝的力量|获得至少一组下界合金块|`light:challenges/immortal`|`light:challenges/liver_emperor`|500经验值+随机物品|
 |{挑战}|你是怎么下去的？|在主世界抵达基岩层下层（y < -66）|`light:challenges/root`|`light:challenges/under_bedrock`|10000经验值+随机物品|
-|{挑战}-隐藏成就|人型太空电梯|抵达 y > 90000000|`light:challenges/under_badrock`|`light:challenges/humanoid_space_elevators`|10000经验值+随机物品|
+|{挑战}|人型太空电梯|抵达 y > 90000000|`light:challenges/under_badrock`|`light:challenges/humanoid_space_elevators`|10000经验值+随机物品|
 |{挑战}-隐藏成就|哦吼|飞坏鞘翅|`light:challenges/humanoid_space_elevators`|`light:challenges/oh_no`|1000经验值+随机物品|
 |{挑战}|恶臭的洗礼|抵达 x=11,y=45,z=14 的地方|`light:challenges/root`|`light:challenges/stinking`|114经验值+随机物品|
 |{挑战}|恶臭航班|抵达 y=114514 的高度|`light:challenges/stinking`|`light:challenges/stinking_height`|114经验值+随机物品|
