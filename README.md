@@ -12,17 +12,13 @@
 
 ## 配方（仅展示部分）
 
-### 激光制导火箭发射器
+### 激光制导火箭发射器-无序配方
 
 ![配方](https://cdn.modrinth.com/data/cached_images/e7c3479d02539af4347b93e51db811006b8d9057.png)
 
-无序配方
-
-### 秒人斧
+### 秒人斧-有序配方
 
 ![配方](https://cdn.modrinth.com/data/cached_images/97541cb8ccc234b8df61d17b85ee9814784b18a8.png)
-
-有序配方
 
 ## 进度内容 [目前有 70 个进度]
 
