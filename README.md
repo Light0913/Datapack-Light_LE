@@ -1,5 +1,7 @@
 # Light_LE 的光明
 
+[Modrinth链接](https://modrinth.com/datapack/light_le)
+
 这是一个综合性我的世界数据包，拥有很多功能。主要功能是更多进度
 
 由于部分成就跟中国的网络梗有关，所以外国网友在完成部分进度会很困难
@@ -7,6 +9,20 @@
 支持版本：1.20.X
 
 **使用说明：为了给您更好的体验，请将数据包放在`.minecraft\versions\版本名\saves\存档名\datapacks`目录下，或服务器`存档名（通常为“world”）\datapacks`目录下**
+
+## 配方（仅展示部分）
+
+### 激光制导火箭发射器
+
+![配方](https://cdn.modrinth.com/data/cached_images/e7c3479d02539af4347b93e51db811006b8d9057.png)
+
+无序配方
+
+### 秒人斧
+
+![配方](https://cdn.modrinth.com/data/cached_images/97541cb8ccc234b8df61d17b85ee9814784b18a8.png)
+
+有序配方
 
 ## 进度内容 [目前有 70 个进度]
 
@@ -105,7 +121,7 @@
 
 |进度类型|进度名称|达成条件|进度父项（上游进度）|命名空间ID|奖励|
 |:-:|:-:|:-:|:-|:-|:-:|
-|{挑战}|挑战|解放末地||`light:challenges/root`||
+|{挑战}|挑战|进入末地||`light:challenges/root`||
 |{挑战}|不死族|获得满背包的不死图腾|`light:challenges/root`|`light:challenges/immortal`|100经验值+随机物品|
 |{挑战}|这就是肝帝的力量|获得至少一组下界合金块|`light:challenges/immortal`|`light:challenges/liver_emperor`|500经验值+随机物品|
 |{挑战}|你是怎么下去的？|在主世界抵达基岩层下层（y < -66）|`light:challenges/root`|`light:challenges/under_bedrock`|10000经验值+随机物品|
